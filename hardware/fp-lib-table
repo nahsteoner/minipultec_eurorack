@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "OnerLAB")(type "KiCad")(uri "${KIPRJMOD}/libraries/OnerLAB.pretty")(options "")(descr "OnerLAB BoCu footprints"))
+)

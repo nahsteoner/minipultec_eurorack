@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "OnerLAB")(type "KiCad")(uri "${KIPRJMOD}/libraries/OnerLAB.kicad_sym")(options "")(descr "OnerLAB BoCu symbols"))
+)

@@ -1,0 +1,4458 @@
+(export 
+  (version "D")
+  (design
+    (source "generate_kicad.py")
+    (date "09/22/2026 02:00 PM")
+    (tool "SKiDL (2.3.0)")
+    (sheet
+      (number 1)
+      (name "/")
+      (tstamps "/")
+      (title_block
+        (title)
+        (company)
+        (rev)
+        (date)
+        (source "../hardware/generate_kicad.py")
+        (comment
+          (number "1")
+          (value ""))
+        (comment
+          (number "2")
+          (value ""))
+        (comment
+          (number "3")
+          (value ""))
+        (comment
+          (number "4")
+          (value ""))
+        (comment
+          (number "5")
+          (value ""))
+        (comment
+          (number "6")
+          (value ""))
+        (comment
+          (number "7")
+          (value ""))
+        (comment
+          (number "8")
+          (value ""))
+        (comment
+          (number "9")
+          (value "")))))
+  (components
+    (comp
+      (ref "C10")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14663")
+        (field
+          (name "JLCPCB") "C14663")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "cCDRk0wmta")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "0718e075-c3a7-557d-956c-032b64d3a102"))
+    (comp
+      (ref "C11")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14663")
+        (field
+          (name "JLCPCB") "C14663")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "v9iqvPf4Lv")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "1e8d3308-ac30-5530-80af-90d92f060494"))
+    (comp
+      (ref "C12")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14663")
+        (field
+          (name "JLCPCB") "C14663")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "1HBr0wBOKk")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "0cb0af8c-a7c8-50a7-b060-ecdac7f423f6"))
+    (comp
+      (ref "C13")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14663")
+        (field
+          (name "JLCPCB") "C14663")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "xSHLTOwmN1")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "c75abf26-c0a8-59ef-899f-b7b666927fce"))
+    (comp
+      (ref "C14")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14663")
+        (field
+          (name "JLCPCB") "C14663")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "vNPD_eBgfG")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "0ba21a06-46d6-5588-81a2-00f644109441"))
+    (comp
+      (ref "C15")
+      (value "10u")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C15850")
+        (field
+          (name "JLCPCB") "C15850")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "9ChZcDeg1L")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "f29ac74d-93b5-5efd-8deb-ca234a20d770"))
+    (comp
+      (ref "C16")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C49678")
+        (field
+          (name "JLCPCB") "C49678")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "9JM3YfIdm7")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "ba644b92-aed4-5964-9253-114b045c7a0f"))
+    (comp
+      (ref "C17")
+      (value "10n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C1710")
+        (field
+          (name "JLCPCB") "C1710")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "uqHsBMwW_Z")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "e9736c0a-b135-538b-8661-70280ad1314b"))
+    (comp
+      (ref "C18")
+      (value "82n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C39616")
+        (field
+          (name "JLCPCB") "C39616")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "E5IAAqu6QJ")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "31620530-1b65-578d-8695-258e35843fac"))
+    (comp
+      (ref "C19")
+      (value "39n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C1653")
+        (field
+          (name "JLCPCB") "C1653")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "R8ZhusNZUJ")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "0ec71310-5bee-5eea-8c07-bb6ae141d3bb"))
+    (comp
+      (ref "C2")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14663")
+        (field
+          (name "JLCPCB") "C14663")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "Golv4QXksh")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "aab08bbc-402d-5eaf-ae03-2b18b705c827"))
+    (comp
+      (ref "C20")
+      (value "27n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C1548")
+        (field
+          (name "JLCPCB") "C1548")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "NznpVXIrJ8")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "df1bb913-2604-5713-a7b5-fcc57f1a6eb7"))
+    (comp
+      (ref "C21")
+      (value "8.2n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C1804")
+        (field
+          (name "JLCPCB") "C1804")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "jgfOkOBYdM")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "92e92963-20b4-5e20-985c-982f72931322"))
+    (comp
+      (ref "C22")
+      (value "1u")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C28323")
+        (field
+          (name "JLCPCB") "C28323")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "JgQt2b7qQb")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "0f7b734c-677b-5dde-9f01-b049539650d5"))
+    (comp
+      (ref "C23")
+      (value "470n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C1713")
+        (field
+          (name "JLCPCB") "C1713")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "EL802_7Kxk")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "834e6ff2-5902-5be9-8c01-916f9cd1f4d2"))
+    (comp
+      (ref "C24")
+      (value "390n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C1328")
+        (field
+          (name "JLCPCB") "C1328")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "8cvb_URUPw")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "382f0958-ac5c-5516-9876-652be71f4fde"))
+    (comp
+      (ref "C25")
+      (value "150n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C66719")
+        (field
+          (name "JLCPCB") "C66719")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "XQn_AxSu8V")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "3190b822-1121-5261-8bd2-a2043d0febec"))
+    (comp
+      (ref "C26")
+      (value "10n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C1710")
+        (field
+          (name "JLCPCB") "C1710")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "SaN3yIMOsJ")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "23c7196b-1b50-5e2e-8e80-dac5bad27e13"))
+    (comp
+      (ref "C27")
+      (value "10u")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C15850")
+        (field
+          (name "JLCPCB") "C15850")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "bY47VI8Z6c")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "0a0ee6a4-21ab-54e7-9ea2-ccab04ea00e3"))
+    (comp
+      (ref "C28")
+      (value "10u")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C15850")
+        (field
+          (name "JLCPCB") "C15850")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "H3g9Gxxp4t")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "43ce74f4-5028-5b72-b3e0-d829b7ddedad"))
+    (comp
+      (ref "C29")
+      (value "10u")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C15850")
+        (field
+          (name "JLCPCB") "C15850")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "1jBIgqN9_7")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "f88aa492-b1ae-532a-9e90-74fcf9315fa8"))
+    (comp
+      (ref "C30")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C49678")
+        (field
+          (name "JLCPCB") "C49678")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "ttQrVdUQcn")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "7ea9e166-7808-5f73-9366-d58963890477"))
+    (comp
+      (ref "C31")
+      (value "10n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C1710")
+        (field
+          (name "JLCPCB") "C1710")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "_A7oLYkJ9v")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "057944e4-986b-50ed-a51c-c5efda8211bd"))
+    (comp
+      (ref "C32")
+      (value "82n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C39616")
+        (field
+          (name "JLCPCB") "C39616")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "J4aLQWJSzi")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "a29d5134-b2c4-5c00-bc8c-9f20c5371968"))
+    (comp
+      (ref "C33")
+      (value "39n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C1653")
+        (field
+          (name "JLCPCB") "C1653")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "O86wBZNRTf")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "d74576d0-b1ad-503a-8c60-4c24e42dc49d"))
+    (comp
+      (ref "C34")
+      (value "27n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C1548")
+        (field
+          (name "JLCPCB") "C1548")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "pzaeWFxFr8")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "7284e1d7-3380-571b-a633-ef9db8a43a36"))
+    (comp
+      (ref "C35")
+      (value "8.2n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C1804")
+        (field
+          (name "JLCPCB") "C1804")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "NSBLOvrSwO")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "a699268e-57bc-5039-add5-fd54f0cee2b1"))
+    (comp
+      (ref "C36")
+      (value "1u")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C28323")
+        (field
+          (name "JLCPCB") "C28323")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "jGE5p159mO")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "206635ec-8ba6-5720-9d68-fa236fd1a78c"))
+    (comp
+      (ref "C37")
+      (value "470n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C1713")
+        (field
+          (name "JLCPCB") "C1713")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "mP7kqNjSIb")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "40a3b6e6-f7ba-5d7c-a487-f9388c427fd9"))
+    (comp
+      (ref "C38")
+      (value "390n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C1328")
+        (field
+          (name "JLCPCB") "C1328")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "vZk3rmS96f")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "37d43cc1-dff3-5e39-b12a-31d5e8b8883c"))
+    (comp
+      (ref "C39")
+      (value "150n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C66719")
+        (field
+          (name "JLCPCB") "C66719")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "qCaZ87s1jr")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "e18561e5-a9ea-5455-9a38-8a4437f91a4a"))
+    (comp
+      (ref "C4")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14663")
+        (field
+          (name "JLCPCB") "C14663")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "0tBJ3Y2u5P")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "eaca9367-a647-5d08-b3ae-c812ae804744"))
+    (comp
+      (ref "C40")
+      (value "10n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C1710")
+        (field
+          (name "JLCPCB") "C1710")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "fu4D8BdJ3t")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "7cfff5fd-4e8d-57cd-ac1c-8abfd8067621"))
+    (comp
+      (ref "C41")
+      (value "10u")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C15850")
+        (field
+          (name "JLCPCB") "C15850")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "rpslMUHQgs")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "ca6d26c5-92fc-57e0-b13e-d6048b5bf527"))
+    (comp
+      (ref "C42")
+      (value "10u")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C15850")
+        (field
+          (name "JLCPCB") "C15850")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "gRajXMK2ym")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "bd12bf10-4147-514a-beed-3f0d91534b5d"))
+    (comp
+      (ref "C5")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14663")
+        (field
+          (name "JLCPCB") "C14663")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "taqJqWr0Cf")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "cbca35cc-28d1-5ed7-b11f-04f030dc33a8"))
+    (comp
+      (ref "C6")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14663")
+        (field
+          (name "JLCPCB") "C14663")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "9hZAZhb5Bk")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "394c2ef6-fd90-5943-8448-4befc8a3d466"))
+    (comp
+      (ref "C7")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14663")
+        (field
+          (name "JLCPCB") "C14663")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "7H1FkEfBcW")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "af40e773-92eb-5907-a5fb-3755ea630c7c"))
+    (comp
+      (ref "C8")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14663")
+        (field
+          (name "JLCPCB") "C14663")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "2tm1Qs22KN")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "bf2b401d-a87c-5db3-b001-b90295a0161f"))
+    (comp
+      (ref "C80")
+      (value "10u")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C15850")
+        (field
+          (name "JLCPCB") "C15850")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "0vYDCKboW4")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "765a4acd-e792-5ace-b224-93223c0a231b"))
+    (comp
+      (ref "C81")
+      (value "10u")
+      (description "")
+      (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C15850")
+        (field
+          (name "JLCPCB") "C15850")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "LS6YdN0SMj")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "5ee82be2-6169-58b5-9ace-24be9f04117d"))
+    (comp
+      (ref "C9")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14663")
+        (field
+          (name "JLCPCB") "C14663")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "HdLeHxYE9G")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:112"))
+      (libsource
+        (lib "Device")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "e5cdddf2-5e53-5fe3-b8ee-2cda8a99f70b"))
+    (comp
+      (ref "D10")
+      (value "SS14")
+      (description "")
+      (footprint "Diode_SMD:D_SMA")
+      (fields
+        (field
+          (name "LCSC") "C8678")
+        (field
+          (name "JLCPCB") "C8678")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Diode_SMD:D_SMA")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "Ohur8NnEtW")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:132"))
+      (libsource
+        (lib "Device")
+        (part "D_Schottky"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "4c87a52f-98b6-5e9b-8077-2f815931dce8"))
+    (comp
+      (ref "D11")
+      (value "SS14")
+      (description "")
+      (footprint "Diode_SMD:D_SMA")
+      (fields
+        (field
+          (name "LCSC") "C8678")
+        (field
+          (name "JLCPCB") "C8678")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Diode_SMD:D_SMA")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "AbrOYhO6YM")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:134"))
+      (libsource
+        (lib "Device")
+        (part "D_Schottky"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "5fd437c7-aa0f-5152-bfaf-fa0cbe569b01"))
+    (comp
+      (ref "D12")
+      (value "LED_PWR")
+      (description "")
+      (footprint "LED_THT:LED_D3.0mm")
+      (fields
+        (field
+          (name "LCSC") "C72038")
+        (field
+          (name "JLCPCB") "C72038")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "LED_THT:LED_D3.0mm")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "AmYPmlQfMn")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:169"))
+      (libsource
+        (lib "Device")
+        (part "LED"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "77302da9-fcb2-5f09-8ae6-30c98b61d7c7"))
+    (comp
+      (ref "D13")
+      (value "1N4148W")
+      (description "")
+      (footprint "Diode_SMD:D_SOD-123")
+      (fields
+        (field
+          (name "LCSC") "C2128")
+        (field
+          (name "JLCPCB") "C2128")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Diode_SMD:D_SOD-123")
+        (field
+          (name "Datasheet") "https://www.vishay.com/docs/85748/1n4148w.pdf")
+        (field
+          (name "SKiDL Tag") "kC4hsDG6mv")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:316"))
+      (libsource
+        (lib "Diode")
+        (part "1N4148W"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "7dd0216b-dd5c-5f9e-8180-fada9bdbfb9b"))
+    (comp
+      (ref "D14")
+      (value "1N4148W")
+      (description "")
+      (footprint "Diode_SMD:D_SOD-123")
+      (fields
+        (field
+          (name "LCSC") "C2128")
+        (field
+          (name "JLCPCB") "C2128")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Diode_SMD:D_SOD-123")
+        (field
+          (name "Datasheet") "https://www.vishay.com/docs/85748/1n4148w.pdf")
+        (field
+          (name "SKiDL Tag") "jysdePuRUq")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:316"))
+      (libsource
+        (lib "Diode")
+        (part "1N4148W"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "ff18efc4-f9ee-55e9-b051-06435d8b7797"))
+    (comp
+      (ref "D15")
+      (value "1N4148W")
+      (description "")
+      (footprint "Diode_SMD:D_SOD-123")
+      (fields
+        (field
+          (name "LCSC") "C2128")
+        (field
+          (name "JLCPCB") "C2128")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Diode_SMD:D_SOD-123")
+        (field
+          (name "Datasheet") "https://www.vishay.com/docs/85748/1n4148w.pdf")
+        (field
+          (name "SKiDL Tag") "hZREVdqeef")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:316"))
+      (libsource
+        (lib "Diode")
+        (part "1N4148W"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "be4d49c1-5b94-5c3e-85fc-b5f2f7fb258f"))
+    (comp
+      (ref "D16")
+      (value "LED_SAT")
+      (description "")
+      (footprint "LED_THT:LED_D3.0mm")
+      (fields
+        (field
+          (name "LCSC") "C72038")
+        (field
+          (name "JLCPCB") "C72038")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "LED_THT:LED_D3.0mm")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "Pdek3jnGKV")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:327"))
+      (libsource
+        (lib "Device")
+        (part "LED"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "19e4de51-41cd-5435-a505-1c49bb031528"))
+    (comp
+      (ref "D4")
+      (value "BAT54S")
+      (description "")
+      (footprint "Package_TO_SOT_SMD:SOT-23")
+      (fields
+        (field
+          (name "LCSC") "C8547")
+        (field
+          (name "JLCPCB") "C8547")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_TO_SOT_SMD:SOT-23")
+        (field
+          (name "Datasheet") "https://www.diodes.com/assets/Datasheets/ds11005.pdf")
+        (field
+          (name "SKiDL Tag") "FffvEA2W6n")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:236"))
+      (libsource
+        (lib "Diode")
+        (part "BAT54S"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "6e4a4ed5-7ad6-5863-935c-19acdb9fe909"))
+    (comp
+      (ref "D5")
+      (value "1N4148W")
+      (description "")
+      (footprint "Diode_SMD:D_SOD-123")
+      (fields
+        (field
+          (name "LCSC") "C2128")
+        (field
+          (name "JLCPCB") "C2128")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Diode_SMD:D_SOD-123")
+        (field
+          (name "Datasheet") "https://www.vishay.com/docs/85748/1n4148w.pdf")
+        (field
+          (name "SKiDL Tag") "stsPkvAZ0F")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:316"))
+      (libsource
+        (lib "Diode")
+        (part "1N4148W"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "3d1d6326-2331-5d4e-aadb-c97b966a14fc"))
+    (comp
+      (ref "D6")
+      (value "1N4148W")
+      (description "")
+      (footprint "Diode_SMD:D_SOD-123")
+      (fields
+        (field
+          (name "LCSC") "C2128")
+        (field
+          (name "JLCPCB") "C2128")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Diode_SMD:D_SOD-123")
+        (field
+          (name "Datasheet") "https://www.vishay.com/docs/85748/1n4148w.pdf")
+        (field
+          (name "SKiDL Tag") "rY134xeSM8")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:316"))
+      (libsource
+        (lib "Diode")
+        (part "1N4148W"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "b7c67f5a-4848-56af-b53c-578eb80dbac1"))
+    (comp
+      (ref "D7")
+      (value "1N4148W")
+      (description "")
+      (footprint "Diode_SMD:D_SOD-123")
+      (fields
+        (field
+          (name "LCSC") "C2128")
+        (field
+          (name "JLCPCB") "C2128")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Diode_SMD:D_SOD-123")
+        (field
+          (name "Datasheet") "https://www.vishay.com/docs/85748/1n4148w.pdf")
+        (field
+          (name "SKiDL Tag") "IIg0jcLfVU")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:316"))
+      (libsource
+        (lib "Diode")
+        (part "1N4148W"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "46be7e73-608a-50d0-8ace-f41cba634070"))
+    (comp
+      (ref "D8")
+      (value "LED_SAT")
+      (description "")
+      (footprint "LED_THT:LED_D3.0mm")
+      (fields
+        (field
+          (name "LCSC") "C72038")
+        (field
+          (name "JLCPCB") "C72038")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "LED_THT:LED_D3.0mm")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "WwMTOwFCM2")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:327"))
+      (libsource
+        (lib "Device")
+        (part "LED"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "036c99aa-dc59-5a5b-81e5-197d39ab96bd"))
+    (comp
+      (ref "D9")
+      (value "BAT54S")
+      (description "")
+      (footprint "Package_TO_SOT_SMD:SOT-23")
+      (fields
+        (field
+          (name "LCSC") "C8547")
+        (field
+          (name "JLCPCB") "C8547")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_TO_SOT_SMD:SOT-23")
+        (field
+          (name "Datasheet") "https://www.diodes.com/assets/Datasheets/ds11005.pdf")
+        (field
+          (name "SKiDL Tag") "9OBdfSXu7u")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:236"))
+      (libsource
+        (lib "Diode")
+        (part "BAT54S"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "a1dfbf0a-8681-534b-b74a-dc25c61c2ed7"))
+    (comp
+      (ref "FB1")
+      (value "600R@100MHz")
+      (description "")
+      (footprint "Inductor_SMD:L_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C16762")
+        (field
+          (name "JLCPCB") "C16762")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Inductor_SMD:L_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "H3LnAxezP5")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:136"))
+      (libsource
+        (lib "Device")
+        (part "FerriteBead"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "ece73ce6-de7e-5b4b-bd24-fe967ab262fd"))
+    (comp
+      (ref "FB2")
+      (value "600R@100MHz")
+      (description "")
+      (footprint "Inductor_SMD:L_0805_2012Metric")
+      (fields
+        (field
+          (name "LCSC") "C16762")
+        (field
+          (name "JLCPCB") "C16762")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Inductor_SMD:L_0805_2012Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "4D_eLKw0LI")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:138"))
+      (libsource
+        (lib "Device")
+        (part "FerriteBead"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "e3a1757e-49f7-5393-9558-93f6564861d7"))
+    (comp
+      (ref "J1")
+      (value "IN_L_3.5")
+      (description "")
+      (footprint "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "bHqW_ArUnw")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:187"))
+      (libsource
+        (lib "Connector_Audio")
+        (part "AudioJack2_SwitchT"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "fec3a2c7-2660-576a-ac6f-791592c98afb"))
+    (comp
+      (ref "J2")
+      (value "IN_R_3.5")
+      (description "")
+      (footprint "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "6Faeym2O3s")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:189"))
+      (libsource
+        (lib "Connector_Audio")
+        (part "AudioJack2_SwitchT"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "2315a875-5b20-51c2-8783-bf98f510a85e"))
+    (comp
+      (ref "J3")
+      (value "OUT_L_6.35")
+      (description "")
+      (footprint "Connector_Audio:Jack_6.35mm_Neutrik_NJ3FD-V_Vertical")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_Audio:Jack_6.35mm_Neutrik_NJ3FD-V_Vertical")
+        (field
+          (name "Datasheet") "https://www.neutrik.com/en/product/nj3fd-v")
+        (field
+          (name "SKiDL Tag") "Sj0KRAOvrZ")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:191"))
+      (libsource
+        (lib "Connector_Audio")
+        (part "NJ3FD-V"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "f131b0b5-d33d-5cac-84a8-ee8d913c466e"))
+    (comp
+      (ref "J4")
+      (value "OUT_R_6.35")
+      (description "")
+      (footprint "Connector_Audio:Jack_6.35mm_Neutrik_NJ3FD-V_Vertical")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_Audio:Jack_6.35mm_Neutrik_NJ3FD-V_Vertical")
+        (field
+          (name "Datasheet") "https://www.neutrik.com/en/product/nj3fd-v")
+        (field
+          (name "SKiDL Tag") "7H7MyKUhmr")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:193"))
+      (libsource
+        (lib "Connector_Audio")
+        (part "NJ3FD-V"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "7eefd2b8-40f1-59b6-9fa0-ec3b66846999"))
+    (comp
+      (ref "J5")
+      (value "EURORACK_10P")
+      (description "")
+      (footprint "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical")
+      (fields
+        (field
+          (name "Note") "Shrouded 2x5, red stripe pin 1 = -12V")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "suAiwugyv8")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:129"))
+      (libsource
+        (lib "Connector_Generic")
+        (part "Conn_02x05_Odd_Even"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "0fba2c56-5e7e-5707-af24-54064e770465"))
+    (comp
+      (ref "R1")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C25803")
+        (field
+          (name "JLCPCB") "C25803")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "xwDTgLXylV")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "799d7643-3a7b-5e47-90c2-15974d431c86"))
+    (comp
+      (ref "R10")
+      (value "15k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C22847")
+        (field
+          (name "JLCPCB") "C22847")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "coPhnGAjOv")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "beb7f5e0-590b-59b4-ac25-781c088253c8"))
+    (comp
+      (ref "R11")
+      (value "2.2k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C17630")
+        (field
+          (name "JLCPCB") "C17630")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "2pCs312QNZ")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "95e11491-fa22-5e3f-bc42-55b6892af765"))
+    (comp
+      (ref "R12")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C25803")
+        (field
+          (name "JLCPCB") "C25803")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "bjC07_nQIq")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "c032c5c7-4619-5cab-a48a-c6c767994ebf"))
+    (comp
+      (ref "R13")
+      (value "22k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14611")
+        (field
+          (name "JLCPCB") "C14611")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "wTKBukbFo5")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "a3e9fda4-54a1-549a-af5c-0f70cad82451"))
+    (comp
+      (ref "R14")
+      (value "22k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14611")
+        (field
+          (name "JLCPCB") "C14611")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "RuBJYCr5uV")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "fffbd7ee-de18-57b9-b9d4-9279355ecbe7"))
+    (comp
+      (ref "R15")
+      (value "2.2k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C17630")
+        (field
+          (name "JLCPCB") "C17630")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "M4nNqjasZ4")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "b5e81f46-1141-5d27-9632-44536a357be2"))
+    (comp
+      (ref "R16")
+      (value "2.7k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C22933")
+        (field
+          (name "JLCPCB") "C22933")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "IP4eqvR_vU")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "d1459fab-2d32-5603-acf9-5532d54bb48c"))
+    (comp
+      (ref "R17")
+      (value "33k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C23214")
+        (field
+          (name "JLCPCB") "C23214")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "Cba6radVhA")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "95bb0256-9096-5a6c-a47c-b8d90a450058"))
+    (comp
+      (ref "R18")
+      (value "33k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C23214")
+        (field
+          (name "JLCPCB") "C23214")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "IyaIqfAhZg")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "4133a7cc-dc9e-5cce-8366-5d12f95e43ea"))
+    (comp
+      (ref "R19")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C25803")
+        (field
+          (name "JLCPCB") "C25803")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "fN4Tz8C5rU")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "db50a944-a703-5d1d-808f-f3a8bbef0865"))
+    (comp
+      (ref "R2")
+      (value "100k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C1790")
+        (field
+          (name "JLCPCB") "C1790")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "1tfjis2IuB")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "9f05ccde-3b84-56ff-84e5-098f6f782545"))
+    (comp
+      (ref "R20")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C25803")
+        (field
+          (name "JLCPCB") "C25803")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "kQN8hJ_7eE")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "531e51fc-fc0b-5b3a-a56b-d1c9ba73b69d"))
+    (comp
+      (ref "R21")
+      (value "220R")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14754")
+        (field
+          (name "JLCPCB") "C14754")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "lFk75cKg6y")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "53b2df95-e780-5048-a645-50f8443c5f9b"))
+    (comp
+      (ref "R22")
+      (value "100k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C1790")
+        (field
+          (name "JLCPCB") "C1790")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "lQT9LN8ZKP")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "2057d3d3-c617-5848-9c20-2352109ce086"))
+    (comp
+      (ref "R23")
+      (value "220R")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14754")
+        (field
+          (name "JLCPCB") "C14754")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "DbLfrAImJg")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "6bb047b1-9989-587f-aeec-d0b392d2a4cd"))
+    (comp
+      (ref "R24")
+      (value "100k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C1790")
+        (field
+          (name "JLCPCB") "C1790")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "SQ5WQXo8xg")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "0fd15596-df85-5010-ad1e-9e9f16a7d476"))
+    (comp
+      (ref "R25")
+      (value "100k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C1790")
+        (field
+          (name "JLCPCB") "C1790")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "bQArx0WD3s")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "c6b8c999-14d2-5a2a-8eaa-bde3f05bf8fa"))
+    (comp
+      (ref "R26")
+      (value "1k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C11702")
+        (field
+          (name "JLCPCB") "C11702")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "0E42gExHUG")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "08884100-f93d-52fe-b68a-a7a1317f7475"))
+    (comp
+      (ref "R27")
+      (value "4.7k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C13305")
+        (field
+          (name "JLCPCB") "C13305")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "njWUbiwzfN")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "a1e949e7-48f7-57bc-8a17-2c1834b92a28"))
+    (comp
+      (ref "R28")
+      (value "4.7k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C13305")
+        (field
+          (name "JLCPCB") "C13305")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "yOI3k3YXGp")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "7a2e5a3a-6d8d-580c-91c0-28f749b332da"))
+    (comp
+      (ref "R29")
+      (value "1k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C11702")
+        (field
+          (name "JLCPCB") "C11702")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "EkJXSUTpoM")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "10443006-1dce-5850-bc66-e89657775710"))
+    (comp
+      (ref "R3")
+      (value "1k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C11702")
+        (field
+          (name "JLCPCB") "C11702")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "V1t0aRRWQ8")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "28412e4e-52a8-555b-965d-e931847f042a"))
+    (comp
+      (ref "R30")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C25803")
+        (field
+          (name "JLCPCB") "C25803")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "qdMmmDFlIA")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "8f65c5e3-3f92-5961-aaf1-0062569ccc63"))
+    (comp
+      (ref "R31")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C25803")
+        (field
+          (name "JLCPCB") "C25803")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "HDM8FHzg_F")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "3e02f0d2-1785-5d91-aece-511661a3cc3c"))
+    (comp
+      (ref "R32")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C25803")
+        (field
+          (name "JLCPCB") "C25803")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "xyIX4cBeN7")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "db82b6b0-04f0-5c8b-a14e-8f4d461a1fd5"))
+    (comp
+      (ref "R33")
+      (value "15k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C22847")
+        (field
+          (name "JLCPCB") "C22847")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "WdWEHM3mVd")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "c33c2127-d427-5bc7-ac94-d88d709cb56b"))
+    (comp
+      (ref "R34")
+      (value "2.2k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C17630")
+        (field
+          (name "JLCPCB") "C17630")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "e7bmWzMzKx")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "49b84829-9446-50f6-866f-ae9a3ebd6192"))
+    (comp
+      (ref "R35")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C25803")
+        (field
+          (name "JLCPCB") "C25803")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "36KMAqedGz")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "f009ac6c-76a3-5217-bbec-b980097a7d6f"))
+    (comp
+      (ref "R36")
+      (value "22k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14611")
+        (field
+          (name "JLCPCB") "C14611")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "EEUrCyvJib")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "6328096d-1fee-505c-b399-b69b2f862d72"))
+    (comp
+      (ref "R37")
+      (value "22k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14611")
+        (field
+          (name "JLCPCB") "C14611")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "ZmRb6Yslms")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "b7b4d1b1-d00b-5c11-93e9-44bbfabf5e38"))
+    (comp
+      (ref "R38")
+      (value "2.2k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C17630")
+        (field
+          (name "JLCPCB") "C17630")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "KSkw0Oj2ZU")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "7105d95f-c6c1-5788-9637-b9b0b77f5df5"))
+    (comp
+      (ref "R39")
+      (value "2.7k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C22933")
+        (field
+          (name "JLCPCB") "C22933")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "RB8qePyTWb")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "af7c467c-aa4c-5cdd-b642-f6cde1ba513d"))
+    (comp
+      (ref "R4")
+      (value "4.7k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C13305")
+        (field
+          (name "JLCPCB") "C13305")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "uEql46zOhn")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "206615d6-2a5c-5075-b207-5c327df1ef0a"))
+    (comp
+      (ref "R40")
+      (value "33k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C23214")
+        (field
+          (name "JLCPCB") "C23214")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "x_AJ2XXcqi")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "d511fe8b-c916-5750-9338-89b291cb3e8d"))
+    (comp
+      (ref "R41")
+      (value "33k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C23214")
+        (field
+          (name "JLCPCB") "C23214")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "A7WpMVSKOf")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "68dc3e2c-df4e-5973-a003-66752c275229"))
+    (comp
+      (ref "R42")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C25803")
+        (field
+          (name "JLCPCB") "C25803")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "WPcBbmGkPs")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "ab852d98-53b1-5d8b-b997-50bbf448cdf2"))
+    (comp
+      (ref "R43")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C25803")
+        (field
+          (name "JLCPCB") "C25803")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "1d4wuuQC3D")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "1ac85c08-c4c9-52e7-8f83-0bdcb637dcf1"))
+    (comp
+      (ref "R44")
+      (value "220R")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14754")
+        (field
+          (name "JLCPCB") "C14754")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "Hn6xaWiAdD")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "c7086595-3fc3-5323-a28b-e671377bae00"))
+    (comp
+      (ref "R45")
+      (value "100k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C1790")
+        (field
+          (name "JLCPCB") "C1790")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "3Tab4B8M82")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "de839ee3-b0c1-5849-bf29-1ba501f56db8"))
+    (comp
+      (ref "R46")
+      (value "220R")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C14754")
+        (field
+          (name "JLCPCB") "C14754")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "ikSs2F8Gf0")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "5084c2c4-918d-5e16-b821-5bca91988984"))
+    (comp
+      (ref "R47")
+      (value "100k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C1790")
+        (field
+          (name "JLCPCB") "C1790")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "UBloamSGCv")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "d4a1566a-63e7-5d35-a19d-43803695d81b"))
+    (comp
+      (ref "R5")
+      (value "4.7k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C13305")
+        (field
+          (name "JLCPCB") "C13305")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "BtFW2dMHv3")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "eec7eb6c-e148-5a9a-8d7d-29e5e616262a"))
+    (comp
+      (ref "R6")
+      (value "1k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C11702")
+        (field
+          (name "JLCPCB") "C11702")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "ap_FQweXfo")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "b634b30f-93b3-52a0-aaf1-2c8406ca06c5"))
+    (comp
+      (ref "R7")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C25803")
+        (field
+          (name "JLCPCB") "C25803")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "J3eiAIqbB2")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "a66c2c07-e3a7-5fc4-bb48-0e76c0a6d12b"))
+    (comp
+      (ref "R8")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C25803")
+        (field
+          (name "JLCPCB") "C25803")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "p2O0QF8sqC")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "b3e85fbe-e2fd-567e-8799-39723cf64c9e"))
+    (comp
+      (ref "R9")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "LCSC") "C25803")
+        (field
+          (name "JLCPCB") "C25803")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "aGuhobVxs7")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:106"))
+      (libsource
+        (lib "Device")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "ee919d3f-7da3-55e8-a40a-133357ed7477"))
+    (comp
+      (ref "RV1")
+      (value "B50K_BOOST")
+      (description "")
+      (footprint "Potentiometer_THT:Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Potentiometer_THT:Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "EfJd_pqV8m")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:177"))
+      (libsource
+        (lib "Device")
+        (part "R_Potentiometer_Dual"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "b9e6abd0-04e0-5ee1-86f9-d653c3f2fcd6"))
+    (comp
+      (ref "RV2")
+      (value "B50K_CUT")
+      (description "")
+      (footprint "Potentiometer_THT:Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Potentiometer_THT:Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "8JtyWyQJbZ")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:179"))
+      (libsource
+        (lib "Device")
+        (part "R_Potentiometer_Dual"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "64687184-6b18-5e3d-8921-70105c1d3297"))
+    (comp
+      (ref "RV3")
+      (value "B50K_MID")
+      (description "")
+      (footprint "Potentiometer_THT:Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Potentiometer_THT:Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "cUYOZYpNy2")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:181"))
+      (libsource
+        (lib "Device")
+        (part "R_Potentiometer_Dual"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "1119e183-1df1-502d-8683-915789ded364"))
+    (comp
+      (ref "RV4")
+      (value "B50K_HIGH")
+      (description "")
+      (footprint "Potentiometer_THT:Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Potentiometer_THT:Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical")
+        (field
+          (name "Datasheet") "~")
+        (field
+          (name "SKiDL Tag") "rX2YItFhOe")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:183"))
+      (libsource
+        (lib "Device")
+        (part "R_Potentiometer_Dual"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "6609f2ce-7c51-5395-b762-8deb8ebf2c83"))
+    (comp
+      (ref "SW1")
+      (value "FREQ_L")
+      (description "")
+      (footprint "OnerLAB:SW_Rotary_2P3T_SR16")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "OnerLAB:SW_Rotary_2P3T_SR16")
+        (field
+          (name "Datasheet") "SR16 2-deck 3-position rotary, 16mm bushing")
+        (field
+          (name "SKiDL Tag") "ASDI_OpcHa")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:221"))
+      (libsource
+        (lib "OnerLAB")
+        (part "SW_Rotary_2P3T"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "ac14aec4-befb-5cc3-8140-b33952a953aa"))
+    (comp
+      (ref "SW2")
+      (value "FREQ_R")
+      (description "")
+      (footprint "OnerLAB:SW_Rotary_2P3T_SR16")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "OnerLAB:SW_Rotary_2P3T_SR16")
+        (field
+          (name "Datasheet") "SR16 2-deck 3-position rotary, 16mm bushing")
+        (field
+          (name "SKiDL Tag") "HZtLmPsK72")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:222"))
+      (libsource
+        (lib "OnerLAB")
+        (part "SW_Rotary_2P3T"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "c038374a-07a8-5d32-be85-1901c0b6f3eb"))
+    (comp
+      (ref "U1")
+      (value "NE5532DR")
+      (description "")
+      (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (fields
+        (field
+          (name "LCSC") "C7426")
+        (field
+          (name "JLCPCB") "C7426")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+        (field
+          (name "Datasheet") "http://www.ti.com/lit/ds/symlink/ne5532.pdf")
+        (field
+          (name "SKiDL Tag") "3iOoArVTQh")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:207"))
+      (libsource
+        (lib "Amplifier_Operational")
+        (part "NE5532"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "0a27fed8-ce24-5a94-822c-c72db6f3e29e"))
+    (comp
+      (ref "U2")
+      (value "NE5532DR")
+      (description "")
+      (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (fields
+        (field
+          (name "LCSC") "C7426")
+        (field
+          (name "JLCPCB") "C7426")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+        (field
+          (name "Datasheet") "http://www.ti.com/lit/ds/symlink/ne5532.pdf")
+        (field
+          (name "SKiDL Tag") "Gwa9plUKXG")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:207"))
+      (libsource
+        (lib "Amplifier_Operational")
+        (part "NE5532"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "547dff50-e2e4-5d04-b864-59446069e33b"))
+    (comp
+      (ref "U3")
+      (value "NE5532DR")
+      (description "")
+      (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (fields
+        (field
+          (name "LCSC") "C7426")
+        (field
+          (name "JLCPCB") "C7426")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+        (field
+          (name "Datasheet") "http://www.ti.com/lit/ds/symlink/ne5532.pdf")
+        (field
+          (name "SKiDL Tag") "t97ID2laRI")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:207"))
+      (libsource
+        (lib "Amplifier_Operational")
+        (part "NE5532"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "6cf5a174-2d43-59d7-a93f-d5f0ea481185"))
+    (comp
+      (ref "U4")
+      (value "NE5532DR")
+      (description "")
+      (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (fields
+        (field
+          (name "LCSC") "C7426")
+        (field
+          (name "JLCPCB") "C7426")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+        (field
+          (name "Datasheet") "http://www.ti.com/lit/ds/symlink/ne5532.pdf")
+        (field
+          (name "SKiDL Tag") "5XoJr46NQ2")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:207"))
+      (libsource
+        (lib "Amplifier_Operational")
+        (part "NE5532"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "78b8ae60-18b9-595e-bdf0-a0d6b7f446e7"))
+    (comp
+      (ref "U5")
+      (value "NE5532DR")
+      (description "")
+      (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (fields
+        (field
+          (name "LCSC") "C7426")
+        (field
+          (name "JLCPCB") "C7426")
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+        (field
+          (name "Datasheet") "http://www.ti.com/lit/ds/symlink/ne5532.pdf")
+        (field
+          (name "SKiDL Tag") "Y2RlOcyk5u")
+        (field
+          (name "SKiDL Line") "generate_kicad.py:207"))
+      (libsource
+        (lib "Amplifier_Operational")
+        (part "NE5532"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (tstamps "b03a7364-0e21-5545-a59b-6adc208ef409")))
+  (nets
+    (net
+      (code 1)
+      (name "+12V")
+      (node
+        (ref "C11")
+        (pin "1"))
+      (node
+        (ref "C13")
+        (pin "1"))
+      (node
+        (ref "C2")
+        (pin "1"))
+      (node
+        (ref "C5")
+        (pin "1"))
+      (node
+        (ref "C7")
+        (pin "1"))
+      (node
+        (ref "C80")
+        (pin "1"))
+      (node
+        (ref "C9")
+        (pin "1"))
+      (node
+        (ref "D4")
+        (pin "2"))
+      (node
+        (ref "D9")
+        (pin "2"))
+      (node
+        (ref "FB1")
+        (pin "2"))
+      (node
+        (ref "R1")
+        (pin "1"))
+      (node
+        (ref "U1")
+        (pin "8"))
+      (node
+        (ref "U2")
+        (pin "8"))
+      (node
+        (ref "U3")
+        (pin "8"))
+      (node
+        (ref "U4")
+        (pin "8"))
+      (node
+        (ref "U5")
+        (pin "8")))
+    (net
+      (code 2)
+      (name "-12V")
+      (node
+        (ref "C10")
+        (pin "1"))
+      (node
+        (ref "C12")
+        (pin "1"))
+      (node
+        (ref "C14")
+        (pin "1"))
+      (node
+        (ref "C4")
+        (pin "1"))
+      (node
+        (ref "C6")
+        (pin "1"))
+      (node
+        (ref "C8")
+        (pin "1"))
+      (node
+        (ref "C81")
+        (pin "1"))
+      (node
+        (ref "D4")
+        (pin "1"))
+      (node
+        (ref "D9")
+        (pin "1"))
+      (node
+        (ref "FB2")
+        (pin "2"))
+      (node
+        (ref "U1")
+        (pin "4"))
+      (node
+        (ref "U2")
+        (pin "4"))
+      (node
+        (ref "U3")
+        (pin "4"))
+      (node
+        (ref "U4")
+        (pin "4"))
+      (node
+        (ref "U5")
+        (pin "4")))
+    (net
+      (code 3)
+      (name "GND")
+      (node
+        (ref "C10")
+        (pin "2"))
+      (node
+        (ref "C11")
+        (pin "2"))
+      (node
+        (ref "C12")
+        (pin "2"))
+      (node
+        (ref "C13")
+        (pin "2"))
+      (node
+        (ref "C14")
+        (pin "2"))
+      (node
+        (ref "C17")
+        (pin "2"))
+      (node
+        (ref "C2")
+        (pin "2"))
+      (node
+        (ref "C21")
+        (pin "2"))
+      (node
+        (ref "C26")
+        (pin "2"))
+      (node
+        (ref "C31")
+        (pin "2"))
+      (node
+        (ref "C35")
+        (pin "2"))
+      (node
+        (ref "C4")
+        (pin "2"))
+      (node
+        (ref "C40")
+        (pin "2"))
+      (node
+        (ref "C5")
+        (pin "2"))
+      (node
+        (ref "C6")
+        (pin "2"))
+      (node
+        (ref "C7")
+        (pin "2"))
+      (node
+        (ref "C8")
+        (pin "2"))
+      (node
+        (ref "C80")
+        (pin "2"))
+      (node
+        (ref "C81")
+        (pin "2"))
+      (node
+        (ref "C9")
+        (pin "2"))
+      (node
+        (ref "D12")
+        (pin "1"))
+      (node
+        (ref "J1")
+        (pin "S"))
+      (node
+        (ref "J2")
+        (pin "S"))
+      (node
+        (ref "J3")
+        (pin "S"))
+      (node
+        (ref "J4")
+        (pin "S"))
+      (node
+        (ref "J5")
+        (pin "2"))
+      (node
+        (ref "J5")
+        (pin "3"))
+      (node
+        (ref "J5")
+        (pin "4"))
+      (node
+        (ref "J5")
+        (pin "5"))
+      (node
+        (ref "J5")
+        (pin "6"))
+      (node
+        (ref "R12")
+        (pin "2"))
+      (node
+        (ref "R2")
+        (pin "2"))
+      (node
+        (ref "R22")
+        (pin "2"))
+      (node
+        (ref "R24")
+        (pin "2"))
+      (node
+        (ref "R25")
+        (pin "2"))
+      (node
+        (ref "R28")
+        (pin "2"))
+      (node
+        (ref "R32")
+        (pin "2"))
+      (node
+        (ref "R35")
+        (pin "2"))
+      (node
+        (ref "R45")
+        (pin "2"))
+      (node
+        (ref "R47")
+        (pin "2"))
+      (node
+        (ref "R5")
+        (pin "2"))
+      (node
+        (ref "R9")
+        (pin "2"))
+      (node
+        (ref "U2")
+        (pin "5"))
+      (node
+        (ref "U4")
+        (pin "5")))
+    (net
+      (code 4)
+      (name "IN_L")
+      (node
+        (ref "C15")
+        (pin "1"))
+      (node
+        (ref "J1")
+        (pin "T"))
+      (node
+        (ref "J2")
+        (pin "TN"))
+      (node
+        (ref "R2")
+        (pin "1")))
+    (net
+      (code 5)
+      (name "IN_R")
+      (node
+        (ref "C29")
+        (pin "1"))
+      (node
+        (ref "J2")
+        (pin "T"))
+      (node
+        (ref "R25")
+        (pin "1")))
+    (net
+      (code 6)
+      (name "L_BLK")
+      (node
+        (ref "D4")
+        (pin "3"))
+      (node
+        (ref "R3")
+        (pin "2"))
+      (node
+        (ref "U1")
+        (pin "3")))
+    (net
+      (code 7)
+      (name "L_BUF")
+      (node
+        (ref "R4")
+        (pin "1"))
+      (node
+        (ref "U1")
+        (pin "1"))
+      (node
+        (ref "U1")
+        (pin "2")))
+    (net
+      (code 8)
+      (name "L_COLD")
+      (node
+        (ref "R20")
+        (pin "2"))
+      (node
+        (ref "R23")
+        (pin "1"))
+      (node
+        (ref "U2")
+        (pin "7")))
+    (net
+      (code 9)
+      (name "L_D3")
+      (node
+        (ref "D7")
+        (pin "1"))
+      (node
+        (ref "R13")
+        (pin "1")))
+    (net
+      (code 10)
+      (name "L_EQ")
+      (node
+        (ref "R4")
+        (pin "2"))
+      (node
+        (ref "R5")
+        (pin "1"))
+      (node
+        (ref "R6")
+        (pin "1"))
+      (node
+        (ref "RV2")
+        (pin "1"))
+      (node
+        (ref "SW1")
+        (pin "B")))
+    (net
+      (code 11)
+      (name "L_HI")
+      (node
+        (ref "R15")
+        (pin "2"))
+      (node
+        (ref "RV4")
+        (pin "2")))
+    (net
+      (code 12)
+      (name "L_INVN")
+      (node
+        (ref "R19")
+        (pin "2"))
+      (node
+        (ref "R20")
+        (pin "1"))
+      (node
+        (ref "U2")
+        (pin "6")))
+    (net
+      (code 13)
+      (name "L_LB")
+      (node
+        (ref "R16")
+        (pin "2"))
+      (node
+        (ref "RV1")
+        (pin "2")))
+    (net
+      (code 14)
+      (name "L_LC")
+      (node
+        (ref "RV1")
+        (pin "3"))
+      (node
+        (ref "SW1")
+        (pin "A")))
+    (net
+      (code 15)
+      (name "L_LG+")
+      (node
+        (ref "C26")
+        (pin "1"))
+      (node
+        (ref "R17")
+        (pin "2"))
+      (node
+        (ref "U1")
+        (pin "5")))
+    (net
+      (code 16)
+      (name "L_LL")
+      (node
+        (ref "C22")
+        (pin "2"))
+      (node
+        (ref "C23")
+        (pin "2"))
+      (node
+        (ref "C24")
+        (pin "2"))
+      (node
+        (ref "C25")
+        (pin "2"))
+      (node
+        (ref "R17")
+        (pin "1"))
+      (node
+        (ref "R18")
+        (pin "2")))
+    (net
+      (code 17)
+      (name "L_MIDC")
+      (node
+        (ref "C16")
+        (pin "1"))
+      (node
+        (ref "RV3")
+        (pin "3")))
+    (net
+      (code 18)
+      (name "L_MIDG+")
+      (node
+        (ref "C17")
+        (pin "1"))
+      (node
+        (ref "R7")
+        (pin "2"))
+      (node
+        (ref "U5")
+        (pin "3")))
+    (net
+      (code 19)
+      (name "L_MIDL")
+      (node
+        (ref "C16")
+        (pin "2"))
+      (node
+        (ref "R7")
+        (pin "1"))
+      (node
+        (ref "R8")
+        (pin "2")))
+    (net
+      (code 20)
+      (name "L_MIDW")
+      (node
+        (ref "R6")
+        (pin "2"))
+      (node
+        (ref "RV3")
+        (pin "2")))
+    (net
+      (code 21)
+      (name "L_MK")
+      (node
+        (ref "D5")
+        (pin "2"))
+      (node
+        (ref "R10")
+        (pin "1"))
+      (node
+        (ref "R14")
+        (pin "2"))
+      (node
+        (ref "R19")
+        (pin "1"))
+      (node
+        (ref "R21")
+        (pin "1"))
+      (node
+        (ref "U2")
+        (pin "1")))
+    (net
+      (code 22)
+      (name "L_NINV")
+      (node
+        (ref "D8")
+        (pin "2"))
+      (node
+        (ref "R10")
+        (pin "2"))
+      (node
+        (ref "R11")
+        (pin "1"))
+      (node
+        (ref "R13")
+        (pin "2"))
+      (node
+        (ref "R15")
+        (pin "1"))
+      (node
+        (ref "R16")
+        (pin "1"))
+      (node
+        (ref "U2")
+        (pin "2")))
+    (net
+      (code 23)
+      (name "L_POST")
+      (node
+        (ref "C18")
+        (pin "2"))
+      (node
+        (ref "C19")
+        (pin "2"))
+      (node
+        (ref "C20")
+        (pin "2"))
+      (node
+        (ref "R9")
+        (pin "1"))
+      (node
+        (ref "RV2")
+        (pin "2"))
+      (node
+        (ref "U2")
+        (pin "3")))
+    (net
+      (code 24)
+      (name "L_TAP")
+      (node
+        (ref "R11")
+        (pin "2"))
+      (node
+        (ref "R12")
+        (pin "1")))
+    (net
+      (code 25)
+      (name "N$1")
+      (node
+        (ref "J5")
+        (pin "9")))
+    (net
+      (code 26)
+      (name "N$10")
+      (node
+        (ref "RV2")
+        (pin "3")))
+    (net
+      (code 27)
+      (name "N$11")
+      (node
+        (ref "C18")
+        (pin "1"))
+      (node
+        (ref "SW1")
+        (pin "B1")))
+    (net
+      (code 28)
+      (name "N$12")
+      (node
+        (ref "C19")
+        (pin "1"))
+      (node
+        (ref "SW1")
+        (pin "B2")))
+    (net
+      (code 29)
+      (name "N$13")
+      (node
+        (ref "C20")
+        (pin "1"))
+      (node
+        (ref "SW1")
+        (pin "B3")))
+    (net
+      (code 30)
+      (name "N$14")
+      (node
+        (ref "D5")
+        (pin "1"))
+      (node
+        (ref "D6")
+        (pin "2")))
+    (net
+      (code 31)
+      (name "N$15")
+      (node
+        (ref "D6")
+        (pin "1"))
+      (node
+        (ref "D7")
+        (pin "2")))
+    (net
+      (code 32)
+      (name "N$16")
+      (node
+        (ref "D8")
+        (pin "1"))
+      (node
+        (ref "R14")
+        (pin "1")))
+    (net
+      (code 33)
+      (name "N$17")
+      (node
+        (ref "C21")
+        (pin "1"))
+      (node
+        (ref "RV4")
+        (pin "3")))
+    (net
+      (code 34)
+      (name "N$18")
+      (node
+        (ref "RV4")
+        (pin "1")))
+    (net
+      (code 35)
+      (name "N$19")
+      (node
+        (ref "RV1")
+        (pin "1")))
+    (net
+      (code 36)
+      (name "N$2")
+      (node
+        (ref "J5")
+        (pin "10")))
+    (net
+      (code 37)
+      (name "N$20")
+      (node
+        (ref "C22")
+        (pin "1"))
+      (node
+        (ref "C23")
+        (pin "1"))
+      (node
+        (ref "SW1")
+        (pin "A1")))
+    (net
+      (code 38)
+      (name "N$21")
+      (node
+        (ref "C24")
+        (pin "1"))
+      (node
+        (ref "SW1")
+        (pin "A2")))
+    (net
+      (code 39)
+      (name "N$22")
+      (node
+        (ref "C25")
+        (pin "1"))
+      (node
+        (ref "SW1")
+        (pin "A3")))
+    (net
+      (code 40)
+      (name "N$23")
+      (node
+        (ref "R18")
+        (pin "1"))
+      (node
+        (ref "U1")
+        (pin "6"))
+      (node
+        (ref "U1")
+        (pin "7")))
+    (net
+      (code 41)
+      (name "N$24")
+      (node
+        (ref "C27")
+        (pin "2"))
+      (node
+        (ref "J3")
+        (pin "T"))
+      (node
+        (ref "R22")
+        (pin "1")))
+    (net
+      (code 42)
+      (name "N$25")
+      (node
+        (ref "C27")
+        (pin "1"))
+      (node
+        (ref "R21")
+        (pin "2")))
+    (net
+      (code 43)
+      (name "N$26")
+      (node
+        (ref "C28")
+        (pin "2"))
+      (node
+        (ref "J3")
+        (pin "R"))
+      (node
+        (ref "R24")
+        (pin "1")))
+    (net
+      (code 44)
+      (name "N$27")
+      (node
+        (ref "C28")
+        (pin "1"))
+      (node
+        (ref "R23")
+        (pin "2")))
+    (net
+      (code 45)
+      (name "N$28")
+      (node
+        (ref "C29")
+        (pin "2"))
+      (node
+        (ref "R26")
+        (pin "1")))
+    (net
+      (code 46)
+      (name "N$29")
+      (node
+        (ref "RV3")
+        (pin "4")))
+    (net
+      (code 47)
+      (name "N$3")
+      (node
+        (ref "D10")
+        (pin "1"))
+      (node
+        (ref "FB1")
+        (pin "1")))
+    (net
+      (code 48)
+      (name "N$30")
+      (node
+        (ref "R31")
+        (pin "1"))
+      (node
+        (ref "U5")
+        (pin "6"))
+      (node
+        (ref "U5")
+        (pin "7")))
+    (net
+      (code 49)
+      (name "N$31")
+      (node
+        (ref "RV2")
+        (pin "6")))
+    (net
+      (code 50)
+      (name "N$32")
+      (node
+        (ref "C32")
+        (pin "1"))
+      (node
+        (ref "SW2")
+        (pin "B1")))
+    (net
+      (code 51)
+      (name "N$33")
+      (node
+        (ref "C33")
+        (pin "1"))
+      (node
+        (ref "SW2")
+        (pin "B2")))
+    (net
+      (code 52)
+      (name "N$34")
+      (node
+        (ref "C34")
+        (pin "1"))
+      (node
+        (ref "SW2")
+        (pin "B3")))
+    (net
+      (code 53)
+      (name "N$35")
+      (node
+        (ref "D13")
+        (pin "1"))
+      (node
+        (ref "D14")
+        (pin "2")))
+    (net
+      (code 54)
+      (name "N$36")
+      (node
+        (ref "D14")
+        (pin "1"))
+      (node
+        (ref "D15")
+        (pin "2")))
+    (net
+      (code 55)
+      (name "N$37")
+      (node
+        (ref "D16")
+        (pin "1"))
+      (node
+        (ref "R37")
+        (pin "1")))
+    (net
+      (code 56)
+      (name "N$38")
+      (node
+        (ref "C35")
+        (pin "1"))
+      (node
+        (ref "RV4")
+        (pin "6")))
+    (net
+      (code 57)
+      (name "N$39")
+      (node
+        (ref "RV4")
+        (pin "4")))
+    (net
+      (code 58)
+      (name "N$4")
+      (node
+        (ref "D11")
+        (pin "2"))
+      (node
+        (ref "FB2")
+        (pin "1")))
+    (net
+      (code 59)
+      (name "N$40")
+      (node
+        (ref "RV1")
+        (pin "4")))
+    (net
+      (code 60)
+      (name "N$41")
+      (node
+        (ref "C36")
+        (pin "1"))
+      (node
+        (ref "C37")
+        (pin "1"))
+      (node
+        (ref "SW2")
+        (pin "A1")))
+    (net
+      (code 61)
+      (name "N$42")
+      (node
+        (ref "C38")
+        (pin "1"))
+      (node
+        (ref "SW2")
+        (pin "A2")))
+    (net
+      (code 62)
+      (name "N$43")
+      (node
+        (ref "C39")
+        (pin "1"))
+      (node
+        (ref "SW2")
+        (pin "A3")))
+    (net
+      (code 63)
+      (name "N$44")
+      (node
+        (ref "R41")
+        (pin "1"))
+      (node
+        (ref "U3")
+        (pin "6"))
+      (node
+        (ref "U3")
+        (pin "7")))
+    (net
+      (code 64)
+      (name "N$45")
+      (node
+        (ref "C41")
+        (pin "2"))
+      (node
+        (ref "J4")
+        (pin "T"))
+      (node
+        (ref "R45")
+        (pin "1")))
+    (net
+      (code 65)
+      (name "N$46")
+      (node
+        (ref "C41")
+        (pin "1"))
+      (node
+        (ref "R44")
+        (pin "2")))
+    (net
+      (code 66)
+      (name "N$47")
+      (node
+        (ref "C42")
+        (pin "2"))
+      (node
+        (ref "J4")
+        (pin "R"))
+      (node
+        (ref "R47")
+        (pin "1")))
+    (net
+      (code 67)
+      (name "N$48")
+      (node
+        (ref "C42")
+        (pin "1"))
+      (node
+        (ref "R46")
+        (pin "2")))
+    (net
+      (code 68)
+      (name "N$5")
+      (node
+        (ref "D12")
+        (pin "2"))
+      (node
+        (ref "R1")
+        (pin "2")))
+    (net
+      (code 69)
+      (name "N$6")
+      (node
+        (ref "J1")
+        (pin "TN")))
+    (net
+      (code 70)
+      (name "N$7")
+      (node
+        (ref "C15")
+        (pin "2"))
+      (node
+        (ref "R3")
+        (pin "1")))
+    (net
+      (code 71)
+      (name "N$8")
+      (node
+        (ref "RV3")
+        (pin "1")))
+    (net
+      (code 72)
+      (name "N$9")
+      (node
+        (ref "R8")
+        (pin "1"))
+      (node
+        (ref "U5")
+        (pin "1"))
+      (node
+        (ref "U5")
+        (pin "2")))
+    (net
+      (code 73)
+      (name "RAW+12")
+      (node
+        (ref "D10")
+        (pin "2"))
+      (node
+        (ref "J5")
+        (pin "7"))
+      (node
+        (ref "J5")
+        (pin "8")))
+    (net
+      (code 74)
+      (name "RAW-12")
+      (node
+        (ref "D11")
+        (pin "1"))
+      (node
+        (ref "J5")
+        (pin "1")))
+    (net
+      (code 75)
+      (name "R_BLK")
+      (node
+        (ref "D9")
+        (pin "3"))
+      (node
+        (ref "R26")
+        (pin "2"))
+      (node
+        (ref "U3")
+        (pin "3")))
+    (net
+      (code 76)
+      (name "R_BUF")
+      (node
+        (ref "R27")
+        (pin "1"))
+      (node
+        (ref "U3")
+        (pin "1"))
+      (node
+        (ref "U3")
+        (pin "2")))
+    (net
+      (code 77)
+      (name "R_COLD")
+      (node
+        (ref "R43")
+        (pin "2"))
+      (node
+        (ref "R46")
+        (pin "1"))
+      (node
+        (ref "U4")
+        (pin "7")))
+    (net
+      (code 78)
+      (name "R_D3")
+      (node
+        (ref "D15")
+        (pin "1"))
+      (node
+        (ref "R36")
+        (pin "1")))
+    (net
+      (code 79)
+      (name "R_EQ")
+      (node
+        (ref "R27")
+        (pin "2"))
+      (node
+        (ref "R28")
+        (pin "1"))
+      (node
+        (ref "R29")
+        (pin "1"))
+      (node
+        (ref "RV2")
+        (pin "4"))
+      (node
+        (ref "SW2")
+        (pin "B")))
+    (net
+      (code 80)
+      (name "R_HI")
+      (node
+        (ref "R38")
+        (pin "2"))
+      (node
+        (ref "RV4")
+        (pin "5")))
+    (net
+      (code 81)
+      (name "R_INVN")
+      (node
+        (ref "R42")
+        (pin "2"))
+      (node
+        (ref "R43")
+        (pin "1"))
+      (node
+        (ref "U4")
+        (pin "6")))
+    (net
+      (code 82)
+      (name "R_LB")
+      (node
+        (ref "R39")
+        (pin "2"))
+      (node
+        (ref "RV1")
+        (pin "5")))
+    (net
+      (code 83)
+      (name "R_LC")
+      (node
+        (ref "RV1")
+        (pin "6"))
+      (node
+        (ref "SW2")
+        (pin "A")))
+    (net
+      (code 84)
+      (name "R_LG+")
+      (node
+        (ref "C40")
+        (pin "1"))
+      (node
+        (ref "R40")
+        (pin "2"))
+      (node
+        (ref "U3")
+        (pin "5")))
+    (net
+      (code 85)
+      (name "R_LL")
+      (node
+        (ref "C36")
+        (pin "2"))
+      (node
+        (ref "C37")
+        (pin "2"))
+      (node
+        (ref "C38")
+        (pin "2"))
+      (node
+        (ref "C39")
+        (pin "2"))
+      (node
+        (ref "R40")
+        (pin "1"))
+      (node
+        (ref "R41")
+        (pin "2")))
+    (net
+      (code 86)
+      (name "R_MIDC")
+      (node
+        (ref "C30")
+        (pin "1"))
+      (node
+        (ref "RV3")
+        (pin "6")))
+    (net
+      (code 87)
+      (name "R_MIDG+")
+      (node
+        (ref "C31")
+        (pin "1"))
+      (node
+        (ref "R30")
+        (pin "2"))
+      (node
+        (ref "U5")
+        (pin "5")))
+    (net
+      (code 88)
+      (name "R_MIDL")
+      (node
+        (ref "C30")
+        (pin "2"))
+      (node
+        (ref "R30")
+        (pin "1"))
+      (node
+        (ref "R31")
+        (pin "2")))
+    (net
+      (code 89)
+      (name "R_MIDW")
+      (node
+        (ref "R29")
+        (pin "2"))
+      (node
+        (ref "RV3")
+        (pin "5")))
+    (net
+      (code 90)
+      (name "R_MK")
+      (node
+        (ref "D13")
+        (pin "2"))
+      (node
+        (ref "R33")
+        (pin "1"))
+      (node
+        (ref "R37")
+        (pin "2"))
+      (node
+        (ref "R42")
+        (pin "1"))
+      (node
+        (ref "R44")
+        (pin "1"))
+      (node
+        (ref "U4")
+        (pin "1")))
+    (net
+      (code 91)
+      (name "R_NINV")
+      (node
+        (ref "D16")
+        (pin "2"))
+      (node
+        (ref "R33")
+        (pin "2"))
+      (node
+        (ref "R34")
+        (pin "1"))
+      (node
+        (ref "R36")
+        (pin "2"))
+      (node
+        (ref "R38")
+        (pin "1"))
+      (node
+        (ref "R39")
+        (pin "1"))
+      (node
+        (ref "U4")
+        (pin "2")))
+    (net
+      (code 92)
+      (name "R_POST")
+      (node
+        (ref "C32")
+        (pin "2"))
+      (node
+        (ref "C33")
+        (pin "2"))
+      (node
+        (ref "C34")
+        (pin "2"))
+      (node
+        (ref "R32")
+        (pin "1"))
+      (node
+        (ref "RV2")
+        (pin "5"))
+      (node
+        (ref "U4")
+        (pin "3")))
+    (net
+      (code 93)
+      (name "R_TAP")
+      (node
+        (ref "R34")
+        (pin "2"))
+      (node
+        (ref "R35")
+        (pin "1")))))

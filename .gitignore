@@ -1,0 +1,10 @@
+*.log
+__pycache__/
+*.pyc
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+fp-info-cache
+~*
+.skidlcfg
+*.kicad_prl
